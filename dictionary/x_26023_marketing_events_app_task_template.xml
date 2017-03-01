@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="cmdb_servicetask_product_model" label="Marketing Events App Task Template" max_length="40" name="x_26023_marketing_events_app_task_template" type="collection"/>
+</database>

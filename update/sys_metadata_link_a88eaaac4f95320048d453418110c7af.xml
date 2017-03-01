@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>ab7e6aac4f95320048d453418110c7c3</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sm_config_module">
+    <sm_config_module action="INSERT_OR_UPDATE">
+        <app_name display_value="Marketing Events App">477e6aac4f95320048d453418110c746</app_name>
+        <aspect>dispatch_queue</aspect>
+        <associated_mobile_module/>
+        <associated_module display_value="My Dispatch Map">6b7e6aac4f95320048d453418110c7c1</associated_module>
+        <on>true</on>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-03-01 11:20:31</sys_created_on>
+        <sys_id>ab7e6aac4f95320048d453418110c7c3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-03-01 11:20:31</sys_updated_on>
+    </sm_config_module>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-03-01 11:20:34</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>a88eaaac4f95320048d453418110c7af</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Marketing Events App</sys_name>
+        <sys_package display_value="Marketing Events App" source="x_26023_marketing">3f4eaa6c4f95320048d453418110c7dc</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Marketing Events App">3f4eaa6c4f95320048d453418110c7dc</sys_scope>
+        <sys_update_name>sys_metadata_link_a88eaaac4f95320048d453418110c7af</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-03-01 11:20:34</sys_updated_on>
+        <tablename>sm_config_module</tablename>
+    </sys_metadata_link>
+</record_update>

@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update node_type="sys_portal_page" unload_date="2017-03-01 11:33:39">
+    <sys_portal_page action="INSERT_OR_UPDATE">
+        <layout display_value="layout_2_across">f6defafa0a0a0b12000d5016bd12ff06</layout>
+        <order>850</order>
+        <read_roles>x_26023_marketing_read</read_roles>
+        <roles>x_26023_marketing_admin</roles>
+        <selectable>false</selectable>
+        <sys_class_name>sys_portal_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-03-01 11:20:28</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>3e7e6aac4f95320048d453418110c727</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Marketing Events App Overview</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Marketing Events App" source="x_26023_marketing">3f4eaa6c4f95320048d453418110c7dc</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Marketing Events App">3f4eaa6c4f95320048d453418110c7dc</sys_scope>
+        <sys_update_name>sys_portal_page_3e7e6aac4f95320048d453418110c727</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-03-01 11:20:28</sys_updated_on>
+        <title>Marketing Events App Overview</title>
+        <user/>
+        <view>marketing_events_app_overview</view>
+        <related_items_node>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone1</dropzone>
+                <offset>0</offset>
+                <page display_value="Marketing Events App Overview">3e7e6aac4f95320048d453418110c727</page>
+                <summary>Marketing Events App Requests</summary>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2017-03-01 11:20:28</sys_created_on>
+                <sys_id>367e6aac4f95320048d453418110c72c</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2017-03-01 11:20:28</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2017-03-01 05:20:28">367e6aac4f95320048d453418110c72c</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-03-01 11:20:28</sys_created_on>
+                        <sys_id>767e6aac4f95320048d453418110c72d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-03-01 11:20:28</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderDashboard</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2017-03-01 05:20:28">367e6aac4f95320048d453418110c72c</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-03-01 11:20:28</sys_created_on>
+                        <sys_id>ba7e6aac4f95320048d453418110c72d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-03-01 11:20:28</sys_updated_on>
+                        <value>a67e6aac4f95320048d453418110c709</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2017-03-01 05:20:28">367e6aac4f95320048d453418110c72c</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-03-01 11:20:28</sys_created_on>
+                        <sys_id>fa7e6aac4f95320048d453418110c72c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-03-01 11:20:28</sys_updated_on>
+                        <value>Marketing Events App Requests</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone2</dropzone>
+                <offset>0</offset>
+                <page display_value="Marketing Events App Overview">3e7e6aac4f95320048d453418110c727</page>
+                <summary>Marketing Events App Requests by Month</summary>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2017-03-01 11:20:28</sys_created_on>
+                <sys_id>727e6aac4f95320048d453418110c72e</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2017-03-01 11:20:28</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2017-03-01 05:20:28">727e6aac4f95320048d453418110c72e</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-03-01 11:20:28</sys_created_on>
+                        <sys_id>3a7e6aac4f95320048d453418110c72e</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-03-01 11:20:28</sys_updated_on>
+                        <value>Marketing Events App Requests by Month</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2017-03-01 05:20:28">727e6aac4f95320048d453418110c72e</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-03-01 11:20:28</sys_created_on>
+                        <sys_id>b27e6aac4f95320048d453418110c72f</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-03-01 11:20:28</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderDashboard</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2017-03-01 05:20:28">727e6aac4f95320048d453418110c72e</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-03-01 11:20:28</sys_created_on>
+                        <sys_id>f67e6aac4f95320048d453418110c72f</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-03-01 11:20:28</sys_updated_on>
+                        <value>7e7e6aac4f95320048d453418110c713</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone999</dropzone>
+                <offset>0</offset>
+                <page display_value="Marketing Events App Overview">3e7e6aac4f95320048d453418110c727</page>
+                <summary>Marketing Events App Catalog Usage</summary>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2017-03-01 11:20:28</sys_created_on>
+                <sys_id>be7e6aac4f95320048d453418110c72f</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2017-03-01 11:20:28</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2017-03-01 05:20:28">be7e6aac4f95320048d453418110c72f</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-03-01 11:20:28</sys_created_on>
+                        <sys_id>367e6aac4f95320048d453418110c731</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-03-01 11:20:28</sys_updated_on>
+                        <value>a67e6aac4f95320048d453418110c70c</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2017-03-01 05:20:28">be7e6aac4f95320048d453418110c72f</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-03-01 11:20:28</sys_created_on>
+                        <sys_id>767e6aac4f95320048d453418110c730</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-03-01 11:20:28</sys_updated_on>
+                        <value>Marketing Events App Catalog Usage</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2017-03-01 05:20:28">be7e6aac4f95320048d453418110c72f</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-03-01 11:20:28</sys_created_on>
+                        <sys_id>fe7e6aac4f95320048d453418110c730</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-03-01 11:20:28</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderDashboard</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone1</dropzone>
+                <offset>1</offset>
+                <page display_value="Marketing Events App Overview">3e7e6aac4f95320048d453418110c727</page>
+                <summary>Marketing Events App Group Usage</summary>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2017-03-01 11:20:28</sys_created_on>
+                <sys_id>f67e6aac4f95320048d453418110c728</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2017-03-01 11:20:28</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2017-03-01 05:20:28">f67e6aac4f95320048d453418110c728</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-03-01 11:20:28</sys_created_on>
+                        <sys_id>327e6aac4f95320048d453418110c729</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-03-01 11:20:28</sys_updated_on>
+                        <value>Marketing Events App Group Usage</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2017-03-01 05:20:28">f67e6aac4f95320048d453418110c728</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-03-01 11:20:28</sys_created_on>
+                        <sys_id>327e6aac4f95320048d453418110c72a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-03-01 11:20:28</sys_updated_on>
+                        <value>367e6aac4f95320048d453418110c720</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2017-03-01 05:20:28">f67e6aac4f95320048d453418110c728</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-03-01 11:20:28</sys_created_on>
+                        <sys_id>fa7e6aac4f95320048d453418110c729</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-03-01 11:20:28</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderDashboard</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone2</dropzone>
+                <offset>1</offset>
+                <page display_value="Marketing Events App Overview">3e7e6aac4f95320048d453418110c727</page>
+                <summary>Marketing Events App Tasks</summary>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2017-03-01 11:20:28</sys_created_on>
+                <sys_id>f67e6aac4f95320048d453418110c72a</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2017-03-01 11:20:28</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2017-03-01 05:20:28">f67e6aac4f95320048d453418110c72a</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-03-01 11:20:28</sys_created_on>
+                        <sys_id>3a7e6aac4f95320048d453418110c72b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-03-01 11:20:28</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderDashboard</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2017-03-01 05:20:28">f67e6aac4f95320048d453418110c72a</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-03-01 11:20:28</sys_created_on>
+                        <sys_id>7e7e6aac4f95320048d453418110c72b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-03-01 11:20:28</sys_updated_on>
+                        <value>367e6aac4f95320048d453418110c723</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2017-03-01 05:20:28">f67e6aac4f95320048d453418110c72a</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-03-01 11:20:28</sys_created_on>
+                        <sys_id>be7e6aac4f95320048d453418110c72a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-03-01 11:20:28</sys_updated_on>
+                        <value>Marketing Events App Tasks</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+        </related_items_node>
+    </sys_portal_page>
+</record_update>

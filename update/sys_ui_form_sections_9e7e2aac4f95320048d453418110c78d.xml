@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_form_sections form_id="9e7e2aac4f95320048d453418110c78d" sys_domain="global" table="x_26023_marketing_sf_events_app_request" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-03-01 11:20:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d67e2aac4f95320048d453418110c78e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_26023_marketing_sf_events_app_request" name="x_26023_marketing_sf_events_app_request" sys_domain="global" view="Default view">9e7e2aac4f95320048d453418110c78d</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_26023_marketing_sf_events_app_request" sys_domain="global" view="Default view">d67e2aac4f95320048d453418110c77e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-03-01 11:20:25</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-03-01 11:20:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1e7e2aac4f95320048d453418110c794</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_26023_marketing_sf_events_app_request" name="x_26023_marketing_sf_events_app_request" sys_domain="global" view="Default view">9e7e2aac4f95320048d453418110c78d</sys_ui_form>
+            <sys_ui_section caption="Manual" display_value="Manual" name="x_26023_marketing_sf_events_app_request" sys_domain="global" view="Default view">de7e2aac4f95320048d453418110c792</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-03-01 11:20:25</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-03-01 11:20:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>da7e2aac4f95320048d453418110c7a8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_26023_marketing_sf_events_app_request" name="x_26023_marketing_sf_events_app_request" sys_domain="global" view="Default view">9e7e2aac4f95320048d453418110c78d</sys_ui_form>
+            <sys_ui_section caption="Automatic" display_value="Automatic" name="x_26023_marketing_sf_events_app_request" sys_domain="global" view="Default view">9a7e2aac4f95320048d453418110c799</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-03-01 11:20:25</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-03-01 11:20:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>127e2aac4f95320048d453418110c7b1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_26023_marketing_sf_events_app_request" name="x_26023_marketing_sf_events_app_request" sys_domain="global" view="Default view">9e7e2aac4f95320048d453418110c78d</sys_ui_form>
+            <sys_ui_section caption="Field Controls" display_value="Field Controls" name="x_26023_marketing_sf_events_app_request" sys_domain="global" view="Default view">527e2aac4f95320048d453418110c7ae</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-03-01 11:20:25</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_26023_marketing_sf_events_app_request</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-03-01 11:20:25</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9e7e2aac4f95320048d453418110c78d</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_name>x_26023_marketing_sf_events_app_request</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Marketing Events App" source="x_26023_marketing">3f4eaa6c4f95320048d453418110c7dc</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Marketing Events App">3f4eaa6c4f95320048d453418110c7dc</sys_scope>
+            <sys_update_name>sys_ui_form_sections_9e7e2aac4f95320048d453418110c78d</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-03-01 11:20:25</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

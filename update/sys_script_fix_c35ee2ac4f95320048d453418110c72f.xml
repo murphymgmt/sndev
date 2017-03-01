@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_script_fix">
+    <sys_script_fix action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <before>false</before>
+        <description>Automatically builds state flow start and end states</description>
+        <flush_cache>false</flush_cache>
+        <name>Marketing Events App State Flow Builder</name>
+        <run_once>false</run_once>
+        <script><![CDATA[(new global.StateFlow()).rebuildFlows("x_26023_marketing_events_app_request");
+(new global.StateFlow()).rebuildFlows("x_26023_marketing_events_app_task");]]></script>
+        <sys_class_name>sys_script_fix</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-03-01 11:19:56</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>c35ee2ac4f95320048d453418110c72f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Marketing Events App State Flow Builder</sys_name>
+        <sys_package display_value="Marketing Events App" source="x_26023_marketing">3f4eaa6c4f95320048d453418110c7dc</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Marketing Events App">3f4eaa6c4f95320048d453418110c7dc</sys_scope>
+        <sys_update_name>sys_script_fix_c35ee2ac4f95320048d453418110c72f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-03-01 11:19:56</sys_updated_on>
+        <unloadable>false</unloadable>
+    </sys_script_fix>
+</record_update>

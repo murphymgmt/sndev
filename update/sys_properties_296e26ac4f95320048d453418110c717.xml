@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_properties">
+    <sys_properties action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>Sets the maximum number of agents that will be processed by auto-dispatch at a time</description>
+        <ignore_cache>false</ignore_cache>
+        <is_private>false</is_private>
+        <name>x_26023_marketing.max.agents.processed</name>
+        <read_roles>x_26023_marketing_admin</read_roles>
+        <suffix>max.agents.processed</suffix>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-03-01 11:20:06</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>296e26ac4f95320048d453418110c717</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_26023_marketing.max.agents.processed</sys_name>
+        <sys_package display_value="Marketing Events App" source="x_26023_marketing">3f4eaa6c4f95320048d453418110c7dc</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Marketing Events App">3f4eaa6c4f95320048d453418110c7dc</sys_scope>
+        <sys_update_name>sys_properties_296e26ac4f95320048d453418110c717</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-03-01 11:20:06</sys_updated_on>
+        <type>integer</type>
+        <value>100</value>
+        <write_roles>x_26023_marketing_admin</write_roles>
+    </sys_properties>
+    <sys_translated_text action="delete_multiple" query="documentkey=296e26ac4f95320048d453418110c717"/>
+</record_update>

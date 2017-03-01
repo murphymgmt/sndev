@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sm_config">
+    <sm_config action="INSERT_OR_UPDATE">
+        <accept_reject>true</accept_reject>
+        <active>true</active>
+        <admin_role display_value="x_26023_marketing_admin" name="x_26023_marketing_admin">745e62ac4f95320048d453418110c733</admin_role>
+        <agent_role display_value="x_26023_marketing_agent" name="x_26023_marketing_agent">3c5e62ac4f95320048d453418110c736</agent_role>
+        <app_name>marketing_events_app</app_name>
+        <approval>true</approval>
+        <approval_workflow display_value="Approval Workflow for SM">da95b573d7322100bbc783e80e610360</approval_workflow>
+        <approver_role display_value="x_26023_marketing_approver_user" name="x_26023_marketing_approver_user">345e62ac4f95320048d453418110c739</approver_role>
+        <associated_task_tables/>
+        <auto_dispatch>true</auto_dispatch>
+        <basic_role display_value="x_26023_marketing_basic" name="x_26023_marketing_basic">3c5e62ac4f95320048d453418110c73b</basic_role>
+        <catalog display_value="Marketing Events App Catalog">c97ea6ac4f95320048d453418110c7b9</catalog>
+        <created_with_version>Istanbul: 01-11-2017_1845</created_with_version>
+        <disabled_processes/>
+        <dispatch_group_type display_value="marketing_events_app_dispatch">035ee2ac4f95320048d453418110c732</dispatch_group_type>
+        <dispatch_queue>true</dispatch_queue>
+        <dispatcher_role display_value="x_26023_marketing_dispatcher" name="x_26023_marketing_dispatcher">b85e62ac4f95320048d453418110c73e</dispatcher_role>
+        <follow_the_sun_priority>{value:,type:,display:}</follow_the_sun_priority>
+        <geolocation_maps>false</geolocation_maps>
+        <inbound_email>false</inbound_email>
+        <initiator_role display_value="x_26023_marketing_initiator" name="x_26023_marketing_initiator">745e62ac4f95320048d453418110c741</initiator_role>
+        <kbase display_value="Marketing Events App Knowledge">d97ea6ac4f95320048d453418110c7eb</kbase>
+        <knowledge_base>true</knowledge_base>
+        <limit_by_location>true</limit_by_location>
+        <main_model_category display_value="Marketing Events App Request Template">fb6e66ac4f95320048d453418110c72e</main_model_category>
+        <main_model_table>x_26023_marketing_events_app_request_template</main_model_table>
+        <main_state_flow_table>x_26023_marketing_sf_events_app_request</main_state_flow_table>
+        <main_table>x_26023_marketing_events_app_request</main_table>
+        <managed_docs>true</managed_docs>
+        <mandatory_work_notes>true</mandatory_work_notes>
+        <name>Marketing Events App</name>
+        <part_requirement>true</part_requirement>
+        <pdf_order_summary>false</pdf_order_summary>
+        <property_prefix>x_26023_marketing</property_prefix>
+        <qualification>false</qualification>
+        <qualification_group_type/>
+        <qualifier_role/>
+        <read_role display_value="x_26023_marketing_read" name="x_26023_marketing_read">7c5e62ac4f95320048d453418110c743</read_role>
+        <request_dispatch_method>auto</request_dispatch_method>
+        <request_dispatch_workflow display_value="Request Assignment Workflow for SM">879cca02d7100200e5eb83e80e6103fc</request_dispatch_workflow>
+        <request_driven>false</request_driven>
+        <rollup_work_notes>false</rollup_work_notes>
+        <service_catalog>true</service_catalog>
+        <signature_capture>false</signature_capture>
+        <surveys/>
+        <sys_class_name>sm_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-03-01 11:20:29</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>477e6aac4f95320048d453418110c746</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Marketing Events App</sys_name>
+        <sys_package display_value="Marketing Events App" source="x_26023_marketing">3f4eaa6c4f95320048d453418110c7dc</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Marketing Events App">3f4eaa6c4f95320048d453418110c7dc</sys_scope>
+        <sys_update_name>sm_config_477e6aac4f95320048d453418110c746</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-03-01 11:20:29</sys_updated_on>
+        <task_activities>false</task_activities>
+        <task_dispatch_method>auto</task_dispatch_method>
+        <task_dispatch_workflow display_value="Assignment Workflow for SM">e1865971d7132100bbc783e80e610365</task_dispatch_workflow>
+        <task_model_category display_value="Marketing Events App Task Template">f36e66ac4f95320048d453418110c72f</task_model_category>
+        <task_model_table>x_26023_marketing_events_app_task_template</task_model_table>
+        <task_state_flow_table>x_26023_marketing_sf_events_app_task</task_state_flow_table>
+        <task_table>x_26023_marketing_events_app_task</task_table>
+        <task_work_group_type/>
+        <templates_to_catalog>true</templates_to_catalog>
+        <track_travel>true</track_travel>
+        <use_consistent_assignment>false</use_consistent_assignment>
+        <use_follow_the_sun>true</use_follow_the_sun>
+        <use_location>true</use_location>
+        <use_schedule>false</use_schedule>
+        <use_sf>true</use_sf>
+        <use_skill>all</use_skill>
+        <use_timezone>true</use_timezone>
+        <user_created>true</user_created>
+        <vendor_group_type display_value="marketing_events_app_vendor">835ee2ac4f95320048d453418110c732</vendor_group_type>
+        <work_group_type display_value="marketing_events_app">0b5ee2ac4f95320048d453418110c731</work_group_type>
+    </sm_config>
+</record_update>
